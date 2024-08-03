@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/mnt/etx/Workshop/sd_server/build_debug",
+	"dir-cur-src" : "/mnt/etx/Workshop/sd_server",
+	"dir-top-bld" : "/mnt/etx/Workshop/sd_server/build_debug",
+	"dir-top-src" : "/mnt/etx/Workshop/sd_server",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/mnt/etx/Workshop/sd_server/build_debug/CMakeFiles/sd-server.dir"
+}

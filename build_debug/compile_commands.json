@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mnt/etx/Workshop/sd_server/build_debug",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTEXT_DYN_LINK -DBOOST_CONTEXT_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -g -std=gnu++23 -Wall -Werror -Wpedantic -fmodules-ts -fmodule-mapper=CMakeFiles/sd-server.dir/src/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/sd-server.dir/src/main.cpp.o -c /mnt/etx/Workshop/sd_server/src/main.cpp",
+  "file": "/mnt/etx/Workshop/sd_server/src/main.cpp",
+  "output": "CMakeFiles/sd-server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/etx/Workshop/sd_server/build_debug",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTEXT_DYN_LINK -DBOOST_CONTEXT_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -g -std=gnu++23 -Wall -Werror -Wpedantic -fmodules-ts -fmodule-mapper=CMakeFiles/sd-server.dir/src/soptions/soptions.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/sd-server.dir/src/soptions/soptions.cpp.o -c /mnt/etx/Workshop/sd_server/src/soptions/soptions.cpp",
+  "file": "/mnt/etx/Workshop/sd_server/src/soptions/soptions.cpp",
+  "output": "CMakeFiles/sd-server.dir/src/soptions/soptions.cpp.o"
+}
+]

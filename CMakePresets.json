@@ -1,0 +1,17 @@
+{
+  "version": 8,
+  "configurePresets": [
+    {
+      "name": "linux-default",
+      "displayName": "Linux Debug",
+      "description": "Sets Ninja generator, compilers, build and install directory, debug build type",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build_debug",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "CMAKE_INSTALL_PREFIX": "${sourceDir}/out/install/${presetName}",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": true
+      }
+    }
+  ]
+}
